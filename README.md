@@ -2,6 +2,6 @@
 Web International Conference on Islamic Studies
 
 
-example web pages:
+web pages:
 
-https://aulianapip.github.io/ICIS/
+http://icis.uad.ac.id/
